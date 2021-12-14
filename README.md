@@ -4,6 +4,8 @@
 - 위 책을 기반으로 React.js 와 스프링 부트의 사용 및 연동 스터디함.
 
 - [소스코드 github](https://github.com/fsoftwareengineer/todo-application) 와 책 내용 모두 최신버전에 반영되지 않은 부분이 있어 다를 수 있음.
+- FE : todo-react-app
+- BE : src/main/java/com/example/demo/
 ---
 
 https://github.com/kimym56/42Project/issues/41
