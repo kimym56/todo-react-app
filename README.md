@@ -5,7 +5,7 @@
 
 - [소스코드 github](https://github.com/fsoftwareengineer/todo-application) 와 책 내용 모두 최신버전에 반영되지 않은 부분이 있어 다를 수 있음.
 - FE : [react-workspace/todo-react-app](https://github.com/kimym56/todo-react-app/tree/master/react-workspace/todo-react-app)
-- BE : src/main/java/com/example/demo/
+- BE : [src/main/java/com/example/demo/](https://github.com/kimym56/todo-react-app/tree/master/src/main/java/com/example/demo)
 ---
 
 https://github.com/kimym56/42Project/issues/41
